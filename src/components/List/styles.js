@@ -7,7 +7,8 @@ export const ListNav = styled.div `
     
     input{
         padding: 5px 10px;
-        margin-top: 10px;               
+        margin-top: 10px;      
+        border-radius:5px;
     }   
 
     select{

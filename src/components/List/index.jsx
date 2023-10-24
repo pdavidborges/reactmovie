@@ -83,7 +83,7 @@ export function List({ category }) {
             <ListNav>
 
                 <input type="text"
-                    placeholder="Digite para pesquisar"
+                    placeholder="Digite algo para pesquisar"
                     value={search}
                     onChange={(e) => setSearch(e.target.value)}
                 />
